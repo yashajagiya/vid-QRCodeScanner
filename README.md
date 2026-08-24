@@ -14,7 +14,10 @@ Vid is a modern, fast, and lightweight Android QR Code Scanner built with **Jetp
 
 ## Screenshots
 
-1.jpeg ,2.jpeg
+<p align="center">
+  <img src="1.jpeg" width="300" alt="Scan Screen" />
+  <img src="2.jpeg" width="300" alt="Result Screen" />
+</p>
 
 ## Tech Stack
 
