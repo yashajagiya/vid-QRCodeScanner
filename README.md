@@ -79,4 +79,4 @@ limitations under the License.
 ```
 
 ---
-Developed with ❤️ by [Yash Jaghiya](https://github.com/yashajagiya)
+Developed with ❤️ by [Yash Ajagiya](https://github.com/yashajagiya)
